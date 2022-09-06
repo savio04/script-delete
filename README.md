@@ -4,7 +4,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/savio04/Challenge_job.git>
+$ git clone <https://github.com/savio04/script-delete.git>
 
 # Instale as dependências
 $ npm install ou yarn
